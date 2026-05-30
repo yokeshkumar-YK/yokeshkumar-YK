@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yokeshkumar S</h1>
-<h3 align="center">Computer Science Engineering Student | Front-End Developer</h3>
+<h3 align="center">Computer Science Engineer | Front-End Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
