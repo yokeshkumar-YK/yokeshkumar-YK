@@ -1,101 +1,112 @@
-# Hi there, I'm Yokesh Kumar S 👋
+<h1 align="center">Hi 👋, I'm Yokeshkumar S</h1>
+<h3 align="center">Computer Science Engineering Student | Front-End Developer</h3>
 
-## 🚀 About Me
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-I'm a passionate Full Stack Developer specializing in the MERN Stack. I enjoy building responsive, scalable, and user-friendly web applications while continuously learning new technologies and best practices.
+### 👨‍💻 About Me
 
-🎯 Currently seeking opportunities as a Software Engineer where I can contribute, learn, and grow.
-
-- 🌱 Learning Advanced React & Backend Development
-- 💻 Focused on Full Stack Web Development
-- 🚀 Open to Software Engineer and Full Stack Developer roles
-- 📍 Chennai, Tamil Nadu, India
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React.js
-- Bootstrap
-
-### Backend
-- Node.js
-- Express.js
-
-### Database
-- MongoDB
-- MySQL
-
-### Tools & Platforms
-- Git
-- GitHub
-- Postman
-- VS Code
-- Netlify
-- Vercel
+- 🎓 B.E. Computer Science Engineering (CGPA: 8.4)
+- 🏫 Government College of Engineering, Tirunelveli
+- 🌱 Currently learning Web Development and Software Testing
+- 💡 Passionate about solving problems and learning new technologies
+- 🤝 Looking to collaborate on Web Development Projects
+- 🚀 Interested in Front-End Development and QA Testing
+- 📫 Reach me at: **yokeshkumar1910@gmail.com**
 
 ---
 
-## 📂 Featured Projects
+### 🌐 Connect with Me
 
-### 🌐 Portfolio Website
-Personal portfolio showcasing my skills, projects, certifications, and contact information.
-
-**Tech Stack:** HTML, CSS, JavaScript, React
-
-### 🛒 E-Commerce Application
-Full-stack e-commerce application with authentication, product management, and cart functionality.
-
-**Tech Stack:** React, Node.js, Express.js, MongoDB
-
-### ✅ Task Management Application
-Task management system with CRUD operations and responsive design.
-
-**Tech Stack:** React, Node.js, MongoDB
+<p align="left">
+<a href="https://www.linkedin.com/in/yokeshkumar2812" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+</a>
+</p>
 
 ---
 
-## 📈 GitHub Stats
+### 💻 Languages and Tools
 
-![Yokesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yokeshkumar-YK&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yokeshkumar-YK&layout=compact)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yokeshkumar-YK)
-
----
-
-## 🎓 Certifications
-
-- Full Stack Web Development
-- Java Programming
-- SQL & Database Management
-- Software Testing Fundamentals
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c" />
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=figma" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+### 🚀 Projects
 
-📧 Email: yokeshkumar1910@gmail.com
+#### ♻️ Smart Waste Management Tracker
+- Developed a web application to record and visualize daily waste data.
+- Built using HTML, CSS, JavaScript, and Chart.js.
+- Implemented real-time chart updates and local storage.
 
-💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
-
-🌐 Portfolio: https://YOUR-PORTFOLIO-LINK
-
----
-
-## 🎯 Career Objective
-
-To secure a challenging Software Engineer position where I can utilize my technical skills, contribute to innovative projects, and continuously enhance my expertise in modern software development technologies.
+#### 🎉 Event Management Web Application
+- Developed a platform for event booking and vendor services.
+- Built using HTML, CSS, JavaScript, and MySQL.
+- Added vendor management, service selection, and search features.
 
 ---
 
-⭐ Thank you for visiting my profile!
+### 💼 Internship Experience
+
+#### Network Engineer Intern | KKNNP
+📅 November 2024
+
+- Assisted in network setup and monitoring.
+- Troubleshot connectivity issues.
+- Maintained network documentation.
+
+#### Web Development Intern | Icanio Technologies
+📅 July 2025
+
+- Developed responsive web pages.
+- Improved UI layouts.
+- Fixed front-end issues and tested website functionality.
+
+---
+
+### 🏆 Achievements
+
+- 🥈 2nd Prize – Paper Presentation (JP College)
+- 🥇 1st Prize – Connection Event (FX College)
+- 🎯 Finalist – Hackengers Hackathon
+
+---
+
+### 📜 Certifications
+
+- Front-End Development – Great Learning
+- Python for Beginners – Infosys Springboard
+- Prompt Engineering – LinkedIn Learning
+
+---
+
+### 🤝 Volunteering
+
+- NSS Coordinator
+- Coordinator – Blood Donation Team (UTHIRA)
+
+---
+
+### 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+### 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
