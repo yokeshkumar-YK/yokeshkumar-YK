@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 B.E. Computer Science Engineering (CGPA: 8.4)
+- 🎓 B.E. Computer Science Engineering
 - 🏫 Government College of Engineering, Tirunelveli
 - 🌱 Currently learning Web Development and Software Testing
 - 💡 Passionate about solving problems and learning new technologies
